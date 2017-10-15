@@ -6,4 +6,8 @@ Using this repository to test using GitHub as a remote repository and familiariz
 ## What purpose does this serve anyone but you?
 None.
 
+### Please ignore anything beneath this line.
+
+Testing git flow and feature branches
+
 EOF
